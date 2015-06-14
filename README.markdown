@@ -1,5 +1,18 @@
 # Lightbox2
 
+## Webpack Extension
+
+##### Install
+```
+npm install git://github.com/DreamArts/lightbox2
+```
+##### Usage
+```
+require("lightbox2");
+```
+
+----
+
 The original lightbox script. Eight years later — still going strong!
 
 ## Demo and basic instructions
