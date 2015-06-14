@@ -24,6 +24,7 @@
       "url": "http://creativecommons.org/licenses/by/2.5/"
     }
   ],
+  "main": "./index",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-compass": "^0.7.2",
